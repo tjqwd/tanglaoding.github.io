@@ -1,3 +1,3 @@
 ```
-java learning for interview
+java learning
 ```
